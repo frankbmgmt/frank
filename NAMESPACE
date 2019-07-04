@@ -2,4 +2,6 @@
 
 export("%>%")
 export(add_1)
+export(colsums_spaces)
+export(goodbye)
 importFrom(magrittr,"%>%")

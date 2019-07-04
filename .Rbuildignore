@@ -1,2 +1,8 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^frank\.Rcheck$
+^frank.*\.tar\.gz$
+^frank.*\.tgz$
+^frank \.Rcheck$
+^frank .*\.tar\.gz$
+^frank .*\.tgz$
